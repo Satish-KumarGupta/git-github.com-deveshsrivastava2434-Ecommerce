@@ -4,7 +4,6 @@ import Header from './header'
 import Footer from './footer'
 import {Link} from 'react-router-dom';
 import { Menu } from 'antd';
-import { SettingOutlined } from '@ant-design/icons';
 export default function Home() {
     const { SubMenu } = Menu;
 
@@ -53,7 +52,7 @@ export default function Home() {
                         <div className="hero__search__form">
                             <form action="#">
                                 <div className="hero__search__categories">
-                                    All Categories
+                                    All Catego
                                     <span className="arrow_carrot-down"></span>
                                 </div>
                                 <input type="text" placeholder="What do yo u need?"/>
