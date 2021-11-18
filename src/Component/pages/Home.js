@@ -53,7 +53,7 @@ export default function Home() {
                         <div className="hero__search__form">
                             <form action="#">
                                 <div className="hero__search__categories">
-                                    All Categories
+                                    All Categorie
                                     <span className="arrow_carrot-down"></span>
                                 </div>
                                 <input type="text" placeholder="What do yo u need?"/>
