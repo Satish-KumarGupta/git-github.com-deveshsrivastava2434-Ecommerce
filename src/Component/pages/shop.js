@@ -9,7 +9,7 @@ export default function Shop() {
     <section class="hero hero-normal">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3">
+                {/* <div class="col-lg-3">
                     <div class="hero__categories">
                         <div class="hero__categories__all">
                             <i class="fa fa-bars"></i>
@@ -29,7 +29,7 @@ export default function Shop() {
                             <li><a href="#">Fresh Bananas</a></li>
                         </ul>
                     </div>
-                </div>
+                </div> */}
                 <div class="col-lg-9">
                     <div class="hero__search">
                         <div class="hero__search__form">
@@ -78,8 +78,8 @@ export default function Shop() {
 
             {/* <!-- Product Section Begin --> */}
             <section class="product spad">
-                <div class="container">
-                    <div class="row">
+               <div class="container">
+                <div class="row">
                         <div class="col-lg-3 col-md-5">
                             <div class="sidebar">
                                 <div class="sidebar__item">
